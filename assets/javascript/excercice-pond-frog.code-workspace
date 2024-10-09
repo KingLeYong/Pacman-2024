@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../excercice-pond-frog"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../base"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "excercice-pond-frog"
+	}
+}

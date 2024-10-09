@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "pac";
+    src: url(../font/PressStart2P-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    height: 100px;
+    width: 100%;
+    font-family: "pac";
+}
+
+#textabove {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: large;
+}
+
+.input img,
+video {
+    width: 100%;
+}
+
+#score {
+    width: 50vw;
+    font-size: xx-large;
+}
+
+#playground {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+#pacman {
+    width: 100px;
+    height: 100px;
+}
+
+#cherry {
+    width: 100px;
+    height: 100px;
+}
